@@ -71,7 +71,10 @@ def funcAddCar(request):
 ```
 
 ![image1](https://i.imgur.com/oFySDL4.png)
-![image2]([https://i.imgur.com/dpHSBvI.png)
+
+* Firestore:
+
+![image2](https://i.imgur.com/dpHSBvI.png)
 
 **Função 2**
 
